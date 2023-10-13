@@ -20,3 +20,4 @@ int main(){
     }
     cout << "Factorial of " << x << " = " << factorial;     
  }
+}
