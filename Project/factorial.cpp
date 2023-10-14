@@ -14,7 +14,7 @@ int main(){
     return 0;
  }
  else {
-    for (int i = 0; i <= x; ++i)
+    for (int i = 1; i <= x; ++i)
     {
         factorial *= i;
     }
