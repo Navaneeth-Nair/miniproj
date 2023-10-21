@@ -25,5 +25,6 @@ int main() {
         
         cout << nextTerm << ", ";
     }
+    system("pause");
     return 0;
 }

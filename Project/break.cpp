@@ -54,6 +54,7 @@ int main()
     break;
 
     case 4:
+    cout<<"Exiting...";
     return 0;
 
     default:

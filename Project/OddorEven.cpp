@@ -9,12 +9,13 @@ int main() {
 
   if ( n % 2 == 0)
     {
-        cout << n << " is even.";
+        cout << n << " is even.\n";
     }
   else
     {
-        cout << n << " is odd.";
+        cout << n << " is odd.\n";
     }
+    cout<<"\n";
     system("pause");
   return 0;
 }
